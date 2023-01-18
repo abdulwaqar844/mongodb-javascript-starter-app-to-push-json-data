@@ -6,14 +6,14 @@
 - Update Mongodb model according to your requirments.
 - Add Data Json file according to the format of Mongodb Model Schema.
 
-1. Install Dependency of project
+1. Insatall dependency 
+
 Run 
+    
+    npm install
 
-    npm i
 
-
-
-2. Run Your Script 
+2. Run Project file 
 
 Run 
     
